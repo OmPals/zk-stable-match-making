@@ -1,4 +1,6 @@
-# Zk app boilerplate
+# Zk stable match making description
+
+Notion document: https://www.notion.so/Final-Project-Idea-finally-d06f430d769742e8aabf1b1e0da9f0f1
 
 ## Pre requisites
 
